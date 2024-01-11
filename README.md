@@ -1,4 +1,4 @@
-# Gene Expression Calculator Shiny App
+# GeneExpressR Shiny App
 
 ## Overview
 This Shiny app, titled "Gene Expression Calculator", is designed for analyzing gene expression data using a user-friendly web interface. It allows users to upload Excel files (.xlsx) containing gene expression data, view the data in various formats, perform calculations, and download the results.
