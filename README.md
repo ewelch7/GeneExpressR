@@ -1,4 +1,5 @@
 # GeneExpressR Shiny App
+[![DOI](https://zenodo.org/badge/739595832.svg)](https://zenodo.org/doi/10.5281/zenodo.10483301)
 
 ## Overview
 This Shiny app, titled "Gene Expression Calculator", is designed for analyzing gene expression data using a user-friendly web interface. It allows users to upload Excel files (.xlsx) containing gene expression data, view the data in various formats, perform calculations, and download the results.
